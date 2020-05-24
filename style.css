@@ -1,0 +1,33 @@
+
+table {
+	height:30%;
+	width:30%;
+	font-weight: bold;
+	border-collapse:collapse;
+	border: 2px solid black
+	
+}
+th,td {
+	border: 1px solid black;
+	padding: 5px
+}
+th {
+	background-color: lightgray
+}
+form {
+	height:20px
+}
+div {
+	font-family: Century Gothic, Times New Roman;
+	padding: 50px
+}
+h1 {
+	text-align:center
+	
+}
+h1,h2,h3 {
+	font-weight: bold;
+	color:#084fc2;
+}
+			
+		
